@@ -12,10 +12,10 @@
   text-align: center;
   padding-top: 20px;
   font-size: 25px;
-  color: #3F6991;
 }
 .content{
   display:flex;
+  height: 100vh;
 }
 .course{
   font-family: pedestria-mvb,sans-serif;
@@ -24,7 +24,7 @@
   width: 100%;
   display:block;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 5px;
   font-size: 15px;
   color: #3F6991;
 }
