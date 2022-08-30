@@ -11,7 +11,21 @@
   display:block;
   text-align: center;
   padding-top: 20px;
-  font-size: 35px;
+  font-size: 25px;
+  color: #3F6991;
+}
+.content{
+  display:flex;
+}
+.course{
+  font-family: pedestria-mvb,sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  width: 100%;
+  display:block;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 15px;
   color: #3F6991;
 }
 .exercise{
@@ -23,6 +37,7 @@
   padding-left: 10%;
   padding-right: 10%;
   color: #3F6991;
+  flex: 1;
 }
 .e-list{
   font-family: pedestria-mvb,sans-serif;
@@ -42,6 +57,7 @@ font-family: pedestria-mvb,sans-serif;
   padding-left: 10%;
   padding-right: 10%;
   color: #3F6991;
+  flex: 1;
 }
 ul li a{
   position: relative;
