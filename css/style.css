@@ -63,6 +63,7 @@ ul li a{
   position: relative;
   color: #163C40;
   text-decoration: none;
+  line-height: 50px;
 }
 a:after{
 content: "";
@@ -71,7 +72,7 @@ background-color: #172F45;
 height: 3px;
 width: 0%;
 left: 0;
-bottom: -5px;
+bottom: -2px;
 transition: 0.3s;
 }
 a:hover{
