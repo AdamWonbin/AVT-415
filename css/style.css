@@ -1,7 +1,7 @@
 *{
   margin: 0;
   padding: 0;
-  background-color: #C3FAFF;
+  background-color: #FCF2E5;
 }
 .header{
   font-family: pedestria-mvb,sans-serif;
@@ -12,6 +12,7 @@
   text-align: center;
   padding-top: 20px;
   font-size: 25px;
+  color: #4C606B;
 }
 .content{
   display:flex;
