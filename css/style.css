@@ -15,8 +15,7 @@
   color: #4C606B;
 }
 .content{
-  display:flex;
-  height: 100vh;
+  display: flex;
 }
 .course{
   font-family: pedestria-mvb,sans-serif;
